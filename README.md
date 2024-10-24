@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Priyanka</h1>
+<h1 align="center">Hey 👾, I'm Priyanka</h1>
 <h3 align="center">A Computer Science Student from India .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankag12&label=Profile%20views&color=0e75b6&style=flat" alt="priyankag12" /> </p>
