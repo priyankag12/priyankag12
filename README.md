@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **priyankagupta8261@gmail.com**
 
-- ⚡ Fun fact **I hate Java but still use it the most 🥸**
+- ⚡ Fun fact: **I hate Java but still use it the most 🥸**
 
 <p align="left">
 </p>
