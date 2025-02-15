@@ -3,14 +3,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi👾, I'm Priyanka</h1></summary>
+    <summary><h1 style="display: inline-block">Hi! I'm Priyanka</h1></summary>
   </ul>
 </div>
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+<!--   <ul align="center">
     <summary><h2 style="display: inline-block">confusion is just code waiting to make sense.</h2></summary>
-  </ul>
+  </ul> -->
 </div>
 <!--Intro start-->
 <ul>
