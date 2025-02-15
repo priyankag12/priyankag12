@@ -62,19 +62,4 @@
     <img src="https://skillicons.dev/icons?i=aws,latex,bootstrap,c,cpp,java,js,py,django,docker,express,figma,git,github,html,css,linux,sqlite,mongodb,mysql,nextjs,nodejs,postman,react,tailwind,svelte,prisma&amp;perline=14">
   </a>
 </p>
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/priyankag1/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a> 
-</p>
-<!--profile visit count-->
-<div align="center">
-<p><!--<a href="https://visitcount.itsvg.in">--><img src="https://visitcount.itsvg.in/api?id=priyankag12&amp;icon=3&amp;color=6" alt=""></a></p>
-</div>
 <hr>
