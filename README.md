@@ -18,11 +18,12 @@
 <p>🔭 I’m currently working on <strong>AI and Machine Learning.</strong></p>
 </li>
 <li>
-<p>🌱 I’m currently learning <strong>Flutter.</strong></p>
+<p>🌱 I’m currently exploring more in <strong>Network and Security.</strong></p>
 </li>
 <li>
 <p>📫 Feel free to reach me out <strong><a href="mailto:priyankagupta8261@gmail.com">priyankagupta8261@gmail.com</a></strong></p>
 </li>
+  
 </ul>
 <!--Intro end-->
 <!--- stats & Trophy (start) -->
