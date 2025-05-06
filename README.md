@@ -3,8 +3,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">I'm Priyanka.</h1><br>
-      <h3 style="display: inline-block">A Computer Science and Engineering Student.</h3>
+    <summary><h1 style="display: inline-block">I'm Priyanka Gupta.</h1><br>
+      <h3 style="display: inline-block">A Computer Science and Engineering Student from India.</h3>
     </summary>
   </ul>
 </div>
