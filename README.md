@@ -4,9 +4,9 @@
 # Heyy! I'm Priyanka Gupta
 ### A Computer Science and Engineering Student from India
 
-🔭 I’m currently working on **Full-Stack with AI-ML Projects**  
+🔭 I’m currently working on **Software Development Projects** 
 
-🌱 I’m currently exploring more in **Data Science and AIML**  
+🌱 I have been spending time exploring more in *Data Science and Artificial Intelligence*
 
 📫 Feel free to reach me out: **<a href="mailto:priyankagupta8261@gmail.com">priyankagupta8261@gmail.com</a>**
 
