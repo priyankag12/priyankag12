@@ -1,7 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
-# Hi, I'm Priyanka Gupta 👋
+# Heyy! I'm Priyanka Gupta
 ### A Computer Science and Engineering Student from India
 
 🔭 I’m currently working on **Full-Stack with AI-ML Projects**  
