@@ -8,7 +8,7 @@
 
 🌱 I have been spending time exploring more in *Data Science and Artificial Intelligence*
 
-📫 Feel free to reach me out: **<a href="mailto:priyankagupta8261@gmail.com">priyankagupta8261@gmail.com</a>**
+📫 Let's build something fun together! Feel free to reach me out: **<a href="mailto:priyankagupta8261@gmail.com">priyankagupta8261@gmail.com</a>**
 
 <!--- stats & Trophy (start) 
 <div align="center">
