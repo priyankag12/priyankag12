@@ -33,7 +33,7 @@
 
 ## Technologies I Know 👨🏻‍💻
 
-<img src="https://skillicons.dev/icons?i=java,py,html,css,js,mongodb,mysql,nextjs,postman,react,docker,figma,git,aws,latex&perline=14"/>
+<img src="https://skillicons.dev/icons?i=java,spring,py,html,css,tailwind,js,vue,react,nextjs,api,mongodb,mysql,postman,docker,git,aws,figma,latex&perline=14"/>
 
 </div>
 
