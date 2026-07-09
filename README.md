@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **Software Development Projects** 
 
-🌱 I have been spending time exploring more in *Data Science and Artificial Intelligence*
+🌱 I have been spending time exploring more in *Data Science and AIML*!
 
 📫 Let's build something fun together! Feel free to reach me out: **<a href="mailto:priyankagupta8261@gmail.com">priyankagupta8261@gmail.com</a>**
 
@@ -33,7 +33,7 @@
 
 ## Technologies I Know 👨🏻‍💻
 
-<img src="https://skillicons.dev/icons?i=cpp,java,py,django,html,css,js,mongodb,mysql,nextjs,nodejs,postman,express,react,docker,figma,git,aws,latex&perline=14"/>
+<img src="https://skillicons.dev/icons?i=java,py,html,css,js,mongodb,mysql,nextjs,postman,react,docker,figma,git,aws,latex&perline=14"/>
 
 </div>
 
