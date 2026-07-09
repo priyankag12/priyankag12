@@ -1,5 +1,6 @@
 <!--horizontal divider(gradiant)-->
-<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Heyy! I'm Priyanka
 ### Computer Science and Engineering | Data Analysis & Visualization | Project Management
@@ -9,15 +10,16 @@
 🌱 I have been spending time exploring more in *Data Science and AIML*!
 
 📫 Let's build something fun together! Feel free to reach me out: **<a href="mailto:priyankagupta8261@gmail.com">priyankagupta8261@gmail.com</a>**
+<br>
 
- stats & Trophy (start) 
+<!-- stats & Trophy (start) 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=priyankag12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankag12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 
-</div>
+</div>-->
 
 <!--- Trophy 
 <div align="center">
@@ -29,11 +31,12 @@
 <p></p>
 
 <!-- Technologies Section -->
-<div align="center">
+<div align="left">
 
 ## Technologies I Know 👨🏻‍💻
 
 <img src="https://skillicons.dev/icons?i=java,spring,py,html,css,tailwind,js,vue,react,nextjs,jest,mongodb,mysql,postman,docker,git,aws,figma,latex&perline=14"/>
 </div>
+<br>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
